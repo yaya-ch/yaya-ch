@@ -40,7 +40,7 @@
 - Git.
 
 ### 👨‍💻 I’m currently working on:
-- Job application tracking system.
+- A personal project 😄.
 <!--
 **yaya-ch/yaya-ch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
