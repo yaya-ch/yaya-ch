@@ -8,8 +8,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width=60  alt="java"/>
 
 ### 🧰 Frameworks:
-<img src="https://www.svgrepo.com/show/354380/spring-icon.svg" width=50 alt="spring" />
-<img src="https://raw.githubusercontent.com/junit-team/junit5/86465f4f491219ad0c0cf9c64eddca7b0edeb86f/assets/img/junit5-logo.svg" width=50  alt="junit5"/>
+<img src="https://www.svgrepo.com/show/354380/spring-icon.svg" width=50 alt="spring" /> <img src="https://raw.githubusercontent.com/junit-team/junit5/86465f4f491219ad0c0cf9c64eddca7b0edeb86f/assets/img/junit5-logo.svg" width=50  alt="junit5"/>
 
 ### 🗃️ Database management systems:
 <img src="https://www.svgrepo.com/show/303251/mysql-logo.svg" width=70  alt="mySql"/>
